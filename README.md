@@ -25,7 +25,7 @@ logseq-mind-mapping-plus builds upon logseq-mind-mapping by synchronizing change
 
 ## logseq-mind-mapping-plus Demonstration
 A demonstration of logseq-mind-mapping-plus in action is provided below:
-<video src="assets/logseq-mind-mapping-plus使用演示.mp4" autoplay="true" controls="controls"></video>
+![操作演示](assets/logseq-mind-mapping-plus使用演示.gif) 
 
 ## Installation and Usage of logseq-mind-mapping-plus
 1. Locate logseq-mind-mapping-plus in the logseq plugin marketplace and click the 【Install】 button.
