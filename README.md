@@ -7,8 +7,7 @@ logseq-mind-mapping-plus则是在logseq-mind-mapping的基础上，将用户在�
 
 ## logseq-mind-mapping-plus使用演示
 logseq-mind-mapping-plus操作演示如下：
-<video src="assets/logseq-mind-mapping-plus使用演示.mp4" autoplay="true" controls="controls"></video>
-
+![操作演示](assets/logseq-mind-mapping-plus使用演示.gif) 
 ## logseq-mind-mapping-plus安装使用
 1. 在logseq的插件市场中寻找logseq-mind-mapping-plus，找到后点击【安装】按钮。
 2. 下载logseq-mind-mapping-plus插件的压缩文件，解压后，进行插件的手动载入。
